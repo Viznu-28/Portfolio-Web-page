@@ -15,10 +15,7 @@ This project is a **basic portfolio website** built using only **HTML** and **CS
 🚀 How to Use
 
 1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   ```
+   https://github.com/Viznu-28/Portfolio-Web-page.git
 2. Open `portfolio.html` in your browser to view the main page.
 3. Navigate to `contact.html` to see the contact section.
 
