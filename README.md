@@ -6,7 +6,7 @@ This project is a **basic portfolio website** built using only **HTML** and **CS
 
 📁 Files Included
 
-* `portfolio.html` – Main portfolio page
+* `index.html` – Main portfolio page
 * `portfolio.css` – Styles for the portfolio page
 * `contact.html` – Contact form/page
 * `contact.css` – Styles for the contact page
